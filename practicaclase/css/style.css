@@ -1,0 +1,13 @@
+body {      
+    background-color: lightgoldenrodyellow;
+    font-family: verdana;
+}
+
+.nombreEstilo {
+    color: red;
+} 
+
+.h1 {
+    color: green;
+    font-family: monospace;
+}
